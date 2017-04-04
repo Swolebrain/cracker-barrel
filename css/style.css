@@ -1,0 +1,22 @@
+.row{
+  text-align: center;
+}
+.dot{
+  margin: 2rem;
+  border-radius: 100%;
+  background-color: #683226;
+  width:15px;
+  height:15px;
+  display: inline-block;
+}
+
+.full{
+  width: 25px;
+  height: 25px;
+  margin: 1.5rem;
+  background-color: red;
+}
+
+.highlight {
+  box-shadow: 0 0 5px 3px #DBD800;
+}
